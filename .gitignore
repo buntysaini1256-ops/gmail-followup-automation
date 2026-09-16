@@ -1,0 +1,13 @@
+.clasp.json
+.claspignore
+credentials.json
+token.json
+*.key
+*.pem
+.env
+.env.*
+node_modules/
+.DS_Store
+Thumbs.db
+assets/screenshots/*
+!assets/screenshots/.gitkeep
